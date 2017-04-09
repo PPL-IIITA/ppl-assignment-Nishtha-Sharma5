@@ -1,0 +1,4375 @@
+Girl6(Choosy): Maintenace Cost- 22	Boy55(Geeky): Budget- 169
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy16		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy73		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy20		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy95		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy68		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy66		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy16		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy73		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy16		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy16		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy52		Mon Apr 10 02:30:04 2017
+
+Girl0(Normal): Maintenace Cost- 56	Boy0(Geeky): Budget- 176
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 58		Total Value: 123
+
+Girl1(Choosy): Maintenace Cost- 56	Boy1(Generous): Budget- 162
+Gifts given
+	 Gift ID: Gift76, Price: 49, Value: 45, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift66, Price: 49, Value: 31, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift30, Price: 49, Value: 33, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift86, Price: 15, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 162		Total Value: 125
+
+Girl2(Normal): Maintenace Cost- 47	Boy2(Geeky): Budget- 175
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 47		Total Value: 95
+
+Girl3(Normal): Maintenace Cost- 60	Boy3(Geeky): Budget- 196
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift61, Price: 5, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift69, Price: 5, Value: 11, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift13, Price: 6, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift15, Price: 6, Value: 3, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 64		Total Value: 126
+
+Girl4(Choosy): Maintenace Cost- 38	Boy4(Geeky): Budget- 195
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift49, Price: 4, Value: 5, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift45, Price: 5, Value: 17, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 42		Total Value: 134
+
+Girl5(Normal): Maintenace Cost- 32	Boy5(Geeky): Budget- 184
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift88, Price: 1, Value: 16, Type: Essential			Mon Apr 10 02:30:04 2017
+
+	 Gift ID: Gift64, Price: 2, Value: 12, Type: Essential			Mon Apr 10 02:30:04 2017
+
+Total Cost: 33		Total Value: 70
+
+Girl6(Choosy): Maintenace Cost- 22	Boy6(Geeky): Budget- 158
+Gifts given
+	 Gift ID: Gift19, Price: 30, Value: 42, Type: Luxury			Mon Apr 10 02:30:04 2017
+
+Girl0		Old Boyfriend: Boy0		fp Boyfriend: Boy55		Mon Apr 10 02:30:04 2017
+
+------------------------------------------------------------------------------------------------------------------------
